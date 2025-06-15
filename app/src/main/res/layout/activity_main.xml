@@ -19,7 +19,7 @@
         tools:layout_editor_absoluteY="54dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/Bsortear"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleX="1"
@@ -30,7 +30,7 @@
         tools:layout_editor_absoluteY="118dp" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textoresultado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Número Sorteado:"
