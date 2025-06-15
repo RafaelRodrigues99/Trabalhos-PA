@@ -2,6 +2,7 @@ package com.example.multitask
 
 import android.os.Bundle
 import android.view.View
+import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -19,6 +20,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
     fun sortear(view : View){
+        val textoresultado = findViewById<TextView>(R.id.textoresultado)
+        // Procura o TextView com ID 'textoresultado' 
 
     }
 }
